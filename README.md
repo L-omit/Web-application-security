@@ -1,2 +1,2 @@
 # Web-application-security
-Currently studying web application security therefore the repository is empty at the moment.
+Currently studying Web Application Security. Updating the repository as I complete assignments.
