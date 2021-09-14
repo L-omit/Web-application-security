@@ -1,2 +1,2 @@
 # Web-application-security
-Currently studying Web Application Security. Updating the repository as I complete assignments.
+Work I did during "Web Application Security" course held by JAMK
